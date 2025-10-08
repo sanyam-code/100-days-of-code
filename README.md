@@ -2,7 +2,7 @@
 
 | Day | Folder | Date | Status |
 |-----|--------|------|--------|
-| 1 | Day-1 | 2025-08-15 | 🟡 Pending |
+| 1 | Day-1 | 2025-08-15 |  |🟢 Done |
 | 2 | Day-2 | 2025-08-16 | 🟡 Pending |
 | 3 | Day-3 | 2025-08-17 | 🟡 Pending |
 | 4 | Day-4 | 2025-08-18 | 🟡 Pending |
